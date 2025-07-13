@@ -1,0 +1,77 @@
+.container {
+    background-color: rgb(177, 212, 243);
+}
+
+.image{
+    text-align: center;
+}
+.img {
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+}
+
+.main-heading {
+    font-family: "Roboto";
+    font-size: 36px;
+    color: rgb(47, 64, 217);
+    font-weight: bold;
+    padding: 15px;
+    text-align: center;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    color: rgb(222, 42, 42);
+    text-align: center;
+    font-weight: 700;
+    padding: 10px;
+}
+
+.descripton {
+    font-family: "Roboto";
+    font-size: 24px;
+    color: rgb(2, 18, 15);
+    padding: 10px;
+}
+ul{
+    text-align: right;
+}
+.card{
+    margin: 18px;
+    background-color: aliceblue;
+    padding: 20px;
+    margin-left: 10%;
+    border-radius: 20px;
+    width: 70%;
+    text-align: center;
+}
+li {
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 24px;
+    color: brown;
+    list-style-type: none;
+}
+
+.place{
+    color: rgb(171, 78, 78);
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.alert-btn {
+    padding: 12px 24px;
+    background-color: #8a77e8;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    margin: 20px auto;
+    display: block;
+}
+
+.alert-btn:hover {
+    background-color: #45a049;
+}
